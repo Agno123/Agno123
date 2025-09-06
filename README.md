@@ -32,7 +32,6 @@
 - 🔭 Currently working on: **Gymnasiearbete**  
 - 🌱 Learning: `C#`, `.NET`, `Java`, `Svelte`, `PHP`  
 - 📫 Reach me: **agersten.noel@gmail.com**  
-- ⚡ Fun fact: I debug faster when my coffee is strong ☕  
 
 <br clear="both"/>
 
