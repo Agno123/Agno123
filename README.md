@@ -5,10 +5,7 @@
   </span>
 </h1>
 
-<!-- PROFILE IMAGE -->
-<p align="center">
-  <img src="https://your-image-link-here.jpg" alt="Noel Agersten" width="150" style="border-radius:50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px #58a6ff, 0 0 40px #1f6feb;">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Based+in+Skåne%2C+Sweden;Professional+student;" alt="Typing SVG"/>
